@@ -1,5 +1,5 @@
 import Header from "./components/Header";
-import Form from "./components/form";
+import Form from "./components/Form";
 import Grocery from "./components/Grocery";
 import Footer from "./components/Footer";
 import { useState } from "react";
